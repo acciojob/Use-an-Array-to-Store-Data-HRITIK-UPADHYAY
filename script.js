@@ -1,1 +1,1 @@
-
+let yourArray = ["HRITIK", 10, "true", 4, 5];
